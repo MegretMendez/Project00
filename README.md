@@ -23,5 +23,8 @@ Description: In this step, we willl use the "Move" tool. This tool appears in th
 
 Step %: Creating the front wall with a door hole
 <img width="1440" alt="Screenshot 2023-08-25 at 11 58 27 PM" src="https://github.com/MegretMendez/Project00/assets/142510070/d545f983-a503-4dbd-88f5-ee26a6fdf552">
+Description: Lets create a new cube, modify it, and align it on one of the corners of the front of our house.
 
-Description: Lets create a new cube, modify it, and align it on one of the corners of the front of our house
+<img width="1440" alt="Screenshot 2023-08-26 at 12 03 00 AM" src="https://github.com/MegretMendez/Project00/assets/142510070/e83dff76-01b7-429c-b84d-b1b9d5bfb49b">
+Description: Lets duplicate the cube we just created and edited, and place it on the other side of the front of the house.
+
