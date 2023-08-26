@@ -1,12 +1,12 @@
 # Project00
 Excersice1: Creating a House using only Cubes in Unity
+
 Step 1: Creating a Cube
 <img width="1440" alt="paso1" src="https://github.com/MegretMendez/Project00/assets/142510070/f24acdea-8813-4103-a820-b03fe7a6ad99">
 Description: On the top of your screen select the "GameObject" option, then select "3D Object" and lastly click on "Cube". Your cube should be created, as shown in the picture below. 
 ![paso2](https://github.com/MegretMendez/Project00/assets/142510070/649e8af5-074c-4aac-a5ab-dde6c6e5129d)
 
 Step 2: Modify our new cube to fit the criteria of a wall
-
 ![paso2(2)](https://github.com/MegretMendez/Project00/assets/142510070/af66a22b-2e9d-40cf-a76c-d00838c754e4)
 Description: On the top right corner of your editing screen you will see a vertical menu. This are your tools. Each individual tool has a specific action. These actions are helpful for editing the scale,position, and angles of rotation of our cube. For this step we will use the "scale" tool(circled in red) which is useful for modifying the length,width and volume of
 our cube
@@ -24,11 +24,13 @@ Description: In this step, we willl use the "Move" tool. This tool appears in th
 Step 5: Creating the front wall with a door hole
 <img width="1440" alt="Screenshot 2023-08-25 at 11 58 27 PM" src="https://github.com/MegretMendez/Project00/assets/142510070/d545f983-a503-4dbd-88f5-ee26a6fdf552">
 Description: Lets create a new cube, modify it, and align it on one of the corners of the front of our house.
-
 <img width="1440" alt="Screenshot 2023-08-26 at 12 03 00 AM" src="https://github.com/MegretMendez/Project00/assets/142510070/e83dff76-01b7-429c-b84d-b1b9d5bfb49b">
 Description: Lets duplicate the cube we just created and edited, and place it on the other side of the front of the house.
 
 Step 6: Create a new cube to enclose the front wall
 ![Screenshot 2023-08-26 at 12 57 53 AM](https://github.com/MegretMendez/Project00/assets/142510070/b981a90e-16fe-4892-a90f-fbd3e4fdefe8)
-
 Description: Create a new cube and enhance it so it is large and thin. After editing the new cube, position it at the top of the front wall,using the "scale" and "move" tools. The purpose of this step is that the door does not measure equally to the front wall.
+
+Step 7: Create Roof
+![Screenshot 2023-08-25 at 1 03 34 AM](https://github.com/MegretMendez/Project00/assets/142510070/d39f342f-de01-4f35-9342-b62e5d03d69f)
+Description: In this last step we will add a roof to our house. We will do this by creating one cube, modify it using the "scale" tool.
