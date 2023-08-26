@@ -28,3 +28,7 @@ Description: Lets create a new cube, modify it, and align it on one of the corne
 <img width="1440" alt="Screenshot 2023-08-26 at 12 03 00 AM" src="https://github.com/MegretMendez/Project00/assets/142510070/e83dff76-01b7-429c-b84d-b1b9d5bfb49b">
 Description: Lets duplicate the cube we just created and edited, and place it on the other side of the front of the house.
 
+Step 6: Create a new cube to enclose the front wall
+![Screenshot 2023-08-26 at 12 57 53 AM](https://github.com/MegretMendez/Project00/assets/142510070/b981a90e-16fe-4892-a90f-fbd3e4fdefe8)
+
+Description: Create a new cube and enhance it so it is large and thin. After editing the new cube, position it at the top of the front wall,using the "scale" and "move" tools. The purpose of this step is that the door does not measure equally to the front wall.
