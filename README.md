@@ -20,3 +20,8 @@ cube(in this case Cube). On the left panel of our screen, right click on the nam
 Step 4: Moving new cubes to form 3 walls
 ![Screenshot 2023-08-25 at 1 03 34 AM](https://github.com/MegretMendez/Project00/assets/142510070/22ba1228-3be6-4fca-a770-848f937e9756)
 Description: In this step, we willl use the "Move" tool. This tool appears in the Tools menu used in Step 2. This tool allows us to slide an obect in three directions(foward/back,side-to-side,up/down). We will use this tool to move the two new copies of our first cube to form a square with an opening on the front, which is where our door will be.
+
+Step %: Creating the front wall with a door hole
+<img width="1440" alt="Screenshot 2023-08-25 at 11 58 27 PM" src="https://github.com/MegretMendez/Project00/assets/142510070/d545f983-a503-4dbd-88f5-ee26a6fdf552">
+
+Description: Lets create a new cube, modify it, and align it on one of the corners of the front of our house
