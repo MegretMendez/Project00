@@ -38,3 +38,12 @@ Description: In this last step we will add a roof to our house. We will do this 
 Description: Using the "Rotate" tool(third option in the tool menu), rotate the wall we created to an angle, such that it appears to be a side of the roof.
 ![Screenshot 2023-08-26 at 1 26 32 AM](https://github.com/MegretMendez/Project00/assets/142510070/3ad27531-339f-4d88-ade2-12f64e36073a)
 Description: Repeat the process on the other side and connect the top of the walls, so it looks like a single roof. 
+
+Lastly make some finishing touches around your cubes and done!
+Finished Product:
+![Screenshot 2023-08-26 at 1 39 29 AM](https://github.com/MegretMendez/Project00/assets/142510070/639b2629-44cb-41c1-a396-76a3d6d9cffe) 
+![Screenshot 2023-08-26 at 1 40 39 AM](https://github.com/MegretMendez/Project00/assets/142510070/e594c222-6208-44eb-8f1d-74eca59ff53d)
+![Screenshot 2023-08-26 at 1 41 26 AM](https://github.com/MegretMendez/Project00/assets/142510070/73cc8519-eddd-47d4-8ffd-6d9d05c36724)
+![Screenshot 2023-08-26 at 1 42 22 AM](https://github.com/MegretMendez/Project00/assets/142510070/32f248f7-e02c-42cc-bd12-2e6f24651708)
+
+
