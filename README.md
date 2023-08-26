@@ -35,4 +35,6 @@ Step 7: Create Roof
 ![Screenshot 2023-08-26 at 1 05 15 AM](https://github.com/MegretMendez/Project00/assets/142510070/65390ba1-c8ed-4168-a46c-90fdcfb246fb)
 Description: In this last step we will add a roof to our house. We will do this by creating one cube, modify it using the "scale" tool to our desired measures.
 ![Screenshot 2023-08-26 at 1 18 17 AM](https://github.com/MegretMendez/Project00/assets/142510070/1ac5679d-fe80-418e-b130-e3a0f6541699)
-Description: 
+Description: Using the "Rotate" tool(third option in the tool menu), rotate the wall we created to an angle, such that it appears to be a side of the roof.
+![Screenshot 2023-08-26 at 1 26 32 AM](https://github.com/MegretMendez/Project00/assets/142510070/3ad27531-339f-4d88-ade2-12f64e36073a)
+Description: Repeat the process on the other side and connect the top of the walls, so it looks like a single roof. 
