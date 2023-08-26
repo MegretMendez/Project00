@@ -15,4 +15,8 @@ our cube
 Step 3: Creating two more walls
 ![paso4](https://github.com/MegretMendez/Project00/assets/142510070/6461c689-ea1e-4794-abf4-3d1708f7209b)
 Description: To agilize de process of creating and editing two new cubes, we will duplicate the original cube. We will do such thing by right-clicking the name of our original 
-cube(in this case Cube). On the left panel of our screen, right click on the nbame of our original cube(Cube) and then select "Duplicate". Repeat this process twice and should have two new cubes
+cube(in this case Cube). On the left panel of our screen, right click on the name of our original cube(Cube) and then select "Duplicate". Repeat this process twice and you should have two new cubes
+
+Step 4: Moving new cubes to form 3 walls
+![Screenshot 2023-08-25 at 1 03 34 AM](https://github.com/MegretMendez/Project00/assets/142510070/22ba1228-3be6-4fca-a770-848f937e9756)
+Description: In this step, we willl use the "Move" tool. This tool appears in the Tools menu used in Step 2. This tool allows us to slide an obect in three directions(foward/back,side-to-side,up/down). We will use this tool to move the two new copies of our first cube to form a square with an opening on the front, which is where our door will be.
