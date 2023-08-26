@@ -32,5 +32,7 @@ Step 6: Create a new cube to enclose the front wall
 Description: Create a new cube and enhance it so it is large and thin. After editing the new cube, position it at the top of the front wall,using the "scale" and "move" tools. The purpose of this step is that the door does not measure equally to the front wall.
 
 Step 7: Create Roof
-![Screenshot 2023-08-25 at 1 03 34 AM](https://github.com/MegretMendez/Project00/assets/142510070/d39f342f-de01-4f35-9342-b62e5d03d69f)
-Description: In this last step we will add a roof to our house. We will do this by creating one cube, modify it using the "scale" tool.
+![Screenshot 2023-08-26 at 1 05 15 AM](https://github.com/MegretMendez/Project00/assets/142510070/65390ba1-c8ed-4168-a46c-90fdcfb246fb)
+Description: In this last step we will add a roof to our house. We will do this by creating one cube, modify it using the "scale" tool to our desired measures.
+![Screenshot 2023-08-26 at 1 18 17 AM](https://github.com/MegretMendez/Project00/assets/142510070/1ac5679d-fe80-418e-b130-e3a0f6541699)
+Description: 
