@@ -45,4 +45,8 @@ Finished Product:
 ![Screenshot 2023-08-26 at 1 41 26 AM](https://github.com/MegretMendez/Project00/assets/142510070/73cc8519-eddd-47d4-8ffd-6d9d05c36724)
 ![Screenshot 2023-08-26 at 1 42 22 AM](https://github.com/MegretMendez/Project00/assets/142510070/32f248f7-e02c-42cc-bd12-2e6f24651708)
 
+As our first group exercise creating a house, the functionalities of how you can move objects around and re-arrange them was incredibly tedious at first, nonetheless, after trial and error the movements became second nature. Creating a heavy satisfaction after every arrangement, the house came to life in a pleasant way. Through this first experience, we as a group learned that understanding the practicality of the tools was a necessity. 
+
+
+
 
