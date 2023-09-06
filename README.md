@@ -1,3 +1,4 @@
+Jose Megret, David Méndez
 # Project00
 Excersice1: Creating a House using only Cubes in Unity
 
